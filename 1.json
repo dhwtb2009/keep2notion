@@ -7,13 +7,13 @@
             "birthday": 788716800000,
             "_id": "5800ae2f31f11677bf9dacff"
         },
-        "id": "5800ae2f31f11677bf9dacff_9223370305787102807_hk",
+        "id": "5800ae2f31f11677bf9dacff_9223370305742401807_cy",
         "feel": -1,
-        "calorie": 77,
-        "duration": 1250,
-        "startTime": 1731066423000,
-        "endTime": 1731067673000,
-        "type": "hiking",
+        "calorie": 5,
+        "duration": 226,
+        "startTime": 1731112148000,
+        "endTime": 1731112374000,
+        "type": "cycling",
         "subtype": "normal",
         "timezone": "Asia/Shanghai",
         "richText": "",
@@ -35,10 +35,7 @@
         "doubtfulTips": "",
         "doubtfulScore": 0.0,
         "flags": [
-            29,
-            95012,
-            95,
-            10095001
+            6001
         ],
         "heartRate": {
             "heartRates": null,
@@ -50,7 +47,7 @@
             "source": "Keep",
             "manufacturer": null,
             "genre": "AutoGene",
-            "deviceModel": "pedometer",
+            "deviceModel": "health_workout",
             "vendorRecordId": null
         },
         "planId": null,
@@ -63,36 +60,56 @@
         "feedback": null,
         "feedbacks": null,
         "playType": null,
-        "dataType": "outdoorWalking",
-        "badgeAchievementCard": null,
+        "dataType": "outdoorCycling",
+        "badgeAchievementCard": {
+            "cardName": "运动成就徽章",
+            "cardType": "BADGE_ACHIEVEMENT_CARD",
+            "data": {
+                "jumpHomeUrl": "https://m.gotokeep.com/glory-page/badge/home?fullscreen=true&userId=5800ae2f31f11677bf9dacff&visitUserId=5800ae2f31f11677bf9dacff&refer=complete_card",
+                "showCard": true,
+                "bindProduct": "0",
+                "badgeIdList": "6152f04ee854fd0001ed66f9",
+                "cardList": [
+                    {
+                        "badgeId": "6152f04ee854fd0001ed66f9",
+                        "badgeType": null,
+                        "name": "周末不懈怠",
+                        "status": null,
+                        "desc": "每周末累计运动 1 天即可达成",
+                        "picture": "https://static1.keepcdn.com/glory-cms/2021/9/28/16328254910403ug4cimn_720x720.png",
+                        "notAchievePicture": null,
+                        "modelUrl": null,
+                        "condition": null,
+                        "conditionEvent": null,
+                        "metric": null,
+                        "totalValue": null,
+                        "startTime": 0,
+                        "endTime": 0,
+                        "userId": null,
+                        "overValue": null,
+                        "percent": null,
+                        "progress": null,
+                        "doneTime": 1731112148000,
+                        "showMsg": "第121次达成",
+                        "schema": "https://m.gotokeep.com/glory-page/badge/detail?fullscreen=true&userId=5800ae2f31f11677bf9dacff&refer=complete_card&badgeId=6152f04ee854fd0001ed66f9&curOrder=1&badgeType=perfect_week",
+                        "trainType": "cycling",
+                        "productId": null,
+                        "bindProduct": "0",
+                        "sort": 0
+                    }
+                ]
+            }
+        },
         "goalType": "casual",
         "goalValue": 0,
-        "distance": 1096.2613525390625,
-        "averagePace": 1140,
-        "averageSpeed": 3.1,
+        "distance": 722.0879516601562,
+        "averagePace": 312,
+        "averageSpeed": 11.5,
         "polylineSnapshot": null,
-        "constantVersion": "1.3.21",
-        "rawDataURL": "https://ot-sport-log.keepcdn.com/ot-sport-log/ot/xAd5OUA9y2v3Xt6TihB_haxFGjRADlLcUzv9pBOR9wGN8ed3oRu4kNhe35s5R5o8.txt",
-        "crossKmPoints": [
-            {
-                "id": null,
-                "kmPace": 1065,
-                "kmNO": 1,
-                "latitude": 0.0,
-                "longitude": 0.0,
-                "altitude": 0.0,
-                "timestamp": 1731067488,
-                "totalDistance": 1000.0,
-                "totalDuration": 1046.1022246075174,
-                "totalSteps": 1731.0,
-                "averagePointsNum": 0.0,
-                "averageAccuracyRadius": 0.0,
-                "totalCalories": 0,
-                "averageHeartRate": 0,
-                "stepFrequency": 0
-            }
-        ],
-        "geoPoints": "ZasZhYExXX2qPEZz7hJ+G/Wwd/UFYl4H/zkeRR5+CspaguPsWkkUlso3cYzqGUBUKr8F80nwb7dia97b+/Uq2EnTIDVrrPFJzUD5h2YafE0sMsJ02ImO/60L3X2Yc/8yY0U9WW4EuT1sMldo4eHP/RttLx2zsp78Z6VtlL5a/6Byjgpe8McosTgoFq1wS4vQs2GrtNvBb24Z0nhHj3sWG08ctQo3eRo9L1eGHXRUPnF8ctWaZo8/IgoY4PU5kBnsIXJ/b0rbfWj69Xco70gqTjlK5BoOyUgxzjbSAAtlncvDo9TAFQ7LR7KfjBntb5MYrxZLm70o2gZcvrLr3vOBFZVJrTPckZR2Ku3WLCs7CheE0Nw5pBTeNo7l5xeCWpDwLrEWEhTyH7qHclRyij6gBa9Pgt2spkX8lpuI3wsRZB6iUPE9Y09Vp/l6tYdVPclIJFoL5EB+QkG0WD5CaFlZiA==",
+        "constantVersion": "129.99",
+        "rawDataURL": "https://ot-sport-log.keepcdn.com/ot-sport-log/ot/xAd5OUA9y2v3Xt6TihB_haxFGjRADlLcUzv9pBOR9wEfX-ojS5yfZUsvkw_oswUd.txt",
+        "crossKmPoints": [],
+        "geoPoints": "",
         "region": {
             "latitude": 22.12234,
             "longitude": 113.551322,
@@ -112,8 +129,8 @@
         "accumulativeClimbingDistance": 0.0,
         "mapboxStyle": null,
         "privacy": false,
-        "stepPoints": "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",
-        "fullStepPoints": "H4sIAAAAAAAAE4vm4ooFAKoX6t8EAAAA",
+        "stepPoints": "",
+        "fullStepPoints": null,
         "baselineAltitude": 0.0,
         "trainingDevices": null,
         "groupRetro": null,
@@ -136,7 +153,7 @@
         "heartRateGuide": {
             "title": "连接心率设备",
             "picture": "https://static1.keepcdn.com/infra-cms/2024/3/14/18/52/553246736447566b58312b6e536d45724d31554a72686a5172647631715057797775575658426f714c76553d/600x420_3050b13536d61df7667c4261872877f756c6c636.png",
-            "schema": "keep://store_item/20110?type=1&pageId=44&productDetailType=1&kbizPos=product_hiking_complete",
+            "schema": "keep://store_item/20110?type=1&pageId=44&productDetailType=1&kbizPos=product_cycling_complete",
             "name": "解锁心率和最大摄氧量数据，获取更精准的运动能力与状态",
             "button": "立即解锁",
             "buttonTextColour": "#24c789",
@@ -158,11 +175,8 @@
             "schema": null
         },
         "rpeFeedBack": null,
-        "totalSteps": 1891,
-        "stepFrequencies": null,
-        "averageStepFrequency": 90.75204702437534,
-        "maxDiffOfAltitude": 0.0,
-        "kelotonData": null
+        "maxSpeed": 0.0,
+        "sharedBikeOrderId": null
     },
     "errorCode": 0,
     "text": ""
